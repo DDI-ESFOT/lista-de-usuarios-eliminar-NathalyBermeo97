@@ -1,6 +1,4 @@
-/**
- * Created by chalosalvador on 4/2/21
- */
+
 import { useState } from "react";
 
 function formatName(user) {
