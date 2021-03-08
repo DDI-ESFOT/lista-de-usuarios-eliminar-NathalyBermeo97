@@ -16,6 +16,10 @@ const users = [
   {
     name: 'Carlos',
     lastname: 'Perez'
+  },
+  {
+    name:'Nathaly',
+    lastname:'Bermeo'
   }
 ];
 
